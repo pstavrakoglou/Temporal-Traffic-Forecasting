@@ -12,7 +12,7 @@ The pipeline ingests raw CSV data, converts it into RDF triples, creates a trave
 
 ## 📂 Data Source
 
-* **Dataset:** [NYC Automated Traffic Volume Counts](https://www.kaggle.com/datasets) (Kaggle)
+* **Dataset:** [NYC Automated Traffic Volume Counts]([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/aadimator/nyc-automated-traffic-volume-counts)) (Kaggle)
 * **Note:** The raw CSV file is not included in this repository due to its large size. You must download it and place it in the appropriate directory (e.g., Google Drive root) before running the notebook.
 
 ## 🛠️ Tech Stack
